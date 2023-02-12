@@ -1,15 +1,14 @@
 ---
-title: "Te, grönt och svart, en civiliserad dryck"
-slug: "te-gront-och-svart-en-civiliserad-dryck"
-date: 2002-05-06T19:59:00+02:00
-lastmod: 2017-05-22T16:28:16+02:00
-author: "Fredrik Jonsson"
-tags: ["globalisering"]
+title: Te, grönt och svart, en civiliserad dryck
+slug: te-gront-och-svart-en-civiliserad-dryck
+date: "2002-05-06 17:59:00"
+lastmod: "2017-05-22 14:28:16"
+author: Fredrik Jonsson
+tags:
+- globalisering
 aliases:
-  - /node/146/
-
+- /node/146/
 ---
-
 Jag har för vana att alltid bjuda mina gäster på en kopp te, det känns civiliserat. I Kina och andra delar av Asien är det ofint att direkt börja diskutera affärer och liknande. Först tar man en kopp te, hämtar andan och pratar artigt om allmänna spörsmål.
 
 Kommer man till ett möte uppjagad och arg finns det risk att man säger oöverlagda saker, hårda ord som stör harmonin. Bättre då att alla får tillfälla att tänka över det hela en extra gång, över en god kopp te. Detta är en av många anledningar till att jag gillar Asien.
