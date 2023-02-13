@@ -1,6 +1,7 @@
 #
 # Apache settings:
 #
+Header set X-Robots-Tag "noindex, nofollow"
 
 <IfModule mod_setenvif.c>
   SetEnvIfNoCase Referer www.remotasks.com spam
